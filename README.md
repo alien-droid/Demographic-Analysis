@@ -1,4 +1,7 @@
 # Demographic-Analysis
+
+For reading the dataset, we recommend creates placing the '.csv' file within a `data` folder inside the `resources` folder. 
+
 ## Problem Statement
 The study conducts an analysis of a sample of
 the population with the help of Big Data technolo-
@@ -18,3 +21,4 @@ various predictors within the dataset.
 
 ## Dataset
 [Kaggle](https://www.kaggle.com/datasets/imoore/age-dataset)
+
