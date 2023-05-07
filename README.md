@@ -1,6 +1,6 @@
 # Demographic-Analysis
 
-For reading the dataset, we recommend creates placing the '.csv' file within a `data` folder inside the `resources` folder. 
+For reading the dataset, we recommend placing the '.csv' file (from Kaggle) within a `data` folder inside the `resources` folder. 
 
 ## Problem Statement
 The study conducts an analysis of a sample of
